@@ -2,6 +2,7 @@
 Multimedia Graphics and Animations
 
 065518, 067007 & 067008
+
 Welcome to the Animations Tutorial
 
 1. Create a new Android project from the Android Studio IDE. 
@@ -14,5 +15,7 @@ Welcome to the Animations Tutorial
 
 
 All the best :)
+
 by
+
 065518, 067007 & 067008
